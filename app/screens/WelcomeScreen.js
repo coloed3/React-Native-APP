@@ -15,7 +15,7 @@ class WelcomeScreen extends Component {
             source={require('../assets/logo-red.png')}
             style={styles.logo}
           />
-          <Text style={styles.tagline}> Working on mobile Design </Text>
+          <Text style={styles.tagline}> Design and blue </Text>
         </View>
         <AppButton title='Login' onPress={() => console.log('login')} />
         <AppButton
